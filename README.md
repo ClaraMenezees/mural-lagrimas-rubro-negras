@@ -1,29 +1,29 @@
-# gerenciador_de_posts
+Um mural de posts feito em Vue 3 + Vite, onde os torcedores do Sport Club do Recife podem desabafar, compartilhar sua tristeza e despejar as lágrimas da paixão pelo Leão da Ilha.
 
-This template should help get you started developing with Vue 3 in Vite.
+A aplicação permite:
 
-## Recommended IDE Setup
+- Escrever mensagens no mural.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Listar todos os desabafos já publicados.
 
-## Customize configuration
+- Excluir posts individualmente.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+- Mostrar uma mensagem especial quando não há nenhum post.
 
-## Project Setup
 
-```sh
+# gerenciador_de_posts_rubro_negros
+
+ Configuração de IDE Recomendada
+
+VSCode + Volar
+ (e desabilitar o Vetur).
+
+Personalizar Configuração
+
+Veja a Referência de Configuração do Vite
+
+Configuração do Projeto
 npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
+Compilar e Rodar em Desenvolvimento (Hot-Reload)
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
